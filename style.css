@@ -1,0 +1,39 @@
+body{
+    width: 1600px;
+}
+header{
+    text-align: center;
+    margin-top:0px;
+    background-color:#C34A36 ;
+    height: 200px;
+}
+menu{
+    padding-top: 100px;
+}
+menu a{
+    text-align: center;
+    margin-left: 10px;
+    text-decoration: none;
+    color:#B0A8B9;
+    font-size: 30px;
+    
+  
+}
+
+a:hover{
+    text-decoration: underline;
+   
+  cursor:pointer;
+}
+
+div{
+    margin-top: 100px;
+    margin-left: 30px;
+    height:200px ;
+    display: inline-block;
+    width: 30%;
+    background-color: aqua;
+    text-align: center;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
